@@ -1,4 +1,4 @@
-# Hackathon2023-Team6
+# Hackathon2023-TeamF
 Team 6 for Eggplant London Hackathon 2023
 
 Welcome to Eggplant London Hackathon 2023. 
